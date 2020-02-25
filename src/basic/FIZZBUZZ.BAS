@@ -1,7 +1,8 @@
-For j% = 1 To 100 Step 1
+FOR j% = 1 TO 100 STEP 1
     output$ = ""
-    If j% Mod 3 = 0 Then output$ = output$ + "Fizz"
-    If j% Mod 5 = 0 Then output$ = output$ + "Buzz"
-    If output$ = "" Then output$ = j%
-    Print output$
-Next
+    IF j% MOD 3 = 0 THEN output$ = output$ + "Fizz"
+    IF j% MOD 5 = 0 THEN output$ = output$ + "Buzz"
+    IF output$ = "" THEN output$ = STR$(j%)
+    PRINT output$
+NEXT
+
