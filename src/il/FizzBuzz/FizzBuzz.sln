@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{B4EC64DC-6D44-11DD-AAB0-C9A155D89593}") = "FizzBuzz", "FizzBuzz.ilproj", "{E5887E2B-1D03-4C04-893A-87993C77FDD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5887E2B-1D03-4C04-893A-87993C77FDD5}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E5887E2B-1D03-4C04-893A-87993C77FDD5}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E5887E2B-1D03-4C04-893A-87993C77FDD5}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E5887E2B-1D03-4C04-893A-87993C77FDD5}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
